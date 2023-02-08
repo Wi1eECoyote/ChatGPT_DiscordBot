@@ -1,8 +1,10 @@
-This program is designed to pair ChatGPT with Discord. 
+This program is designed to be a simple, lightweight, and easy to implement discord bot. 
 
 Required libraries are 
     - discord
     -openai
+    
+The slash command is located in main.py on line 41. The program is set to use "/ask" by default to trigger the bot. "ask" can be replaced with whatever you like. 
 
 Input your API keys in the config.py file. Do not share your api keys with anyone. 
 
